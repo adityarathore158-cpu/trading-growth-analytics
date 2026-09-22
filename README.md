@@ -68,7 +68,7 @@ Key metrics:
 - Completed Orders
 - Total Customers
 - Total Quantity Traded
-- MoM Trading Growth
+- MoM Trading Growth%
 
 ### 2. Customer Analytics
 
@@ -80,7 +80,7 @@ Key metrics:
 - Average Trading Value per Customer
 - Top Customer Trading Value
 - Average Orders per Customer
-- Top Customer Contribution
+- Top Customer Contribution%
 
 ### 3. Order & Sector Performance
 

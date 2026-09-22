@@ -39,7 +39,7 @@ The project contains five main tables:
 
 ---
 
-## 🔗 Data Model
+##  Data Model
 
 The database follows a dimensional/star-schema style structure.
 
